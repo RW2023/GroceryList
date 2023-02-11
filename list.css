@@ -3,55 +3,55 @@ body {
   width: 600px;
   margin: 0 auto;
   padding: 0;
-  font-family: courier, monospace;
+  font-family: 'Source Code Pro', monospace;
 }
 
 form {
-  color: #3498db;
+  color: #1A120B;
   font-size: 22px;
 }
 
 input[type="text"]{
-  background-color : #f8f8f8;
+  background-color : #E5E5CB;
 }
 
 #addNeed {
-  background-color : #f8f8f8;
-  color: #3498db;
+  background-color : #E5E5CB;
+  color: #3C2A21;
 }
 
 #addHave {
-  background-color : #f8f8f8;
-  color: #3498db;
+  background-color : #E5E5CB;
+  color: #3C2A21;
 }
 
 h1 {
-  color: #4183D7;
+  color: #3C2A21;
   font-size: 50px;
 }
 
 h2 {
-  color: #4183D7;
+  color: #3C2A21;
   font-size: 42px;
   letter-spacing: -2px;
   text-align: left;
 }
 .list {
-  color: #555;
+  color: #3C2A21;
   font-size: 22px;
   padding: 0 !important;
   width: 500px;
-  border: 1px solid #dedede;
+  border: 1px solid #E5E5CB;
 }
 .list li {
   list-style: none;
-  background-color : #f8f8f8;
+  background-color : #E5E5CB;
   border-bottom: 1px dotted #ccc;
   text-indent: 25px;
   height: auto;
   padding: 10px;
   text-transform: capitalize;
-  color: #3498db;
+  color: #3C2A21;
 }
 li a {
   float: right;
@@ -65,6 +65,6 @@ li a {
        (min-resolution: 192dpi)             /* dppx fallback */
 {
 	body {
-		background-image: url('linedpaper/linedpaper_@2x.png');
+		background-image: url('linedpaper/24382364_v602-nunoon-32-rippednotes.jpg');
 	}
 }
